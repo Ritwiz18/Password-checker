@@ -60,6 +60,3 @@ password-checker/
 - **Validation:** Regular Expressions
 - **Math:** Shannon Entropy
 
-## 📝 Resume Description
-
-> **Password Strength Analyzer** — Developed a Python-based GUI application to analyze password security. Implemented Shannon entropy calculation and a password recommendation system with real-time feedback. Built with Tkinter featuring a modern dark-mode interface, animated strength meter, and one-click strong password generator.
